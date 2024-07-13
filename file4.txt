@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is some content to mess up later
 new line in file 4
+=======
+This is some voodoo stuff right here
+>>>>>>> newfeature
